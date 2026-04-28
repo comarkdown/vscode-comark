@@ -1,6 +1,6 @@
 <img src="./images/logo.png" alt="Comark - Components in Markdow VS Code Extension" width="150" />
 
-# MDC syntax highlight for Visual Studio Code
+# Comark & MDC syntax highlight for Visual Studio Code
 
 [![MDC Extension for VS Code][extension-version-src]][extension-href]
 [![MDC Extension for VS Code][extension-downloads-src]][extension-href]
@@ -11,12 +11,13 @@ Provides syntax highlighting and colon (`:`) matching for MDC (Markdown Componen
 - [Download VS Code extension](https://marketplace.visualstudio.com/items?itemName=Nuxt.mdc)
 
 Best used with:
-- [Remark MDC](https://github.com/nuxtlabs/remark-mdc)
-- [Markdown It MDC](https://github.com/antfu/markdown-it-mdc)
+- [Comark](https://github.com/comarkdown/comark)
+- [Markdown It Comark](https://github.com/comarkdown/markdown-it-comark)
+- [Remark MDC](https://github.com/nuxt-content/remark-mdc)
 
 Or with Nuxt modules:
-- [Nuxt MDC](https://github.com/nuxt-modules/mdc)
 - [Nuxt Content](https://content.nuxt.com)
+- [Nuxt MDC](https://github.com/nuxt-modules/mdc)
 
 ## Features
 
