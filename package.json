@@ -3,7 +3,7 @@
   "packageManager": "pnpm@10.33.2",
   "displayName": "Comark - Components in Markdown (previously MDC)",
   "description": "Provides syntax highlighting and colon matching for Comark (Components in Markdown, previously MDC) files.",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "publisher": "Nuxt",
   "icon": "images/logo.png",
   "repository": {

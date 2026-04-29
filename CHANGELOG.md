@@ -2,6 +2,41 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## v0.6.0
+
+[compare changes](https://github.com/comarkdown/vscode-comark/compare/v0.5.0...v0.6.0)
+
+### 🚀 Enhancements
+
+- Add support for binding `{{...}}` syntax ([aebba86](https://github.com/comarkdown/vscode-comark/commit/aebba86))
+
+### 🩹 Fixes
+
+- **grammar:** Inline components detection and attributes regex ([#87](https://github.com/comarkdown/vscode-comark/pull/87))
+
+### 📖 Documentation
+
+- Add manual testing option to README ([f22df19](https://github.com/comarkdown/vscode-comark/commit/f22df19))
+- Add Comark + Nuxt link ([b9fa0b2](https://github.com/comarkdown/vscode-comark/commit/b9fa0b2))
+
+### 🏡 Chore
+
+- Update branding to comark ([#88](https://github.com/comarkdown/vscode-comark/pull/88))
+- Revise README for Comark and MDC syntax highlight ([26f5043](https://github.com/comarkdown/vscode-comark/commit/26f5043))
+- Upgrade deps and update tests ([cb159e0](https://github.com/comarkdown/vscode-comark/commit/cb159e0))
+
+### 🤖 CI
+
+- Pnpm/action-setup v4 ([feaf60f](https://github.com/comarkdown/vscode-comark/commit/feaf60f))
+- Temporary add main to deploy workflow ([df3bd3d](https://github.com/comarkdown/vscode-comark/commit/df3bd3d))
+- Update deploy workflow to trigger on main branch ([040c312](https://github.com/comarkdown/vscode-comark/commit/040c312))
+- Do not deploy without tag ([4896e62](https://github.com/comarkdown/vscode-comark/commit/4896e62))
+
+### ❤️ Contributors
+
+- Farnabaz <farnabaz@gmail.com>
+- Sébastien Chopin ([@atinux](https://github.com/atinux))
+
 ## v0.5.0
 
 [compare changes](https://github.com/nuxtlabs/vscode-mdc/compare/v0.4.2...v0.5.0)
