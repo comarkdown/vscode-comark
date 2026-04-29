@@ -128,7 +128,7 @@ const processMetadataFile = ({
     }
 
     return metadata
-  } catch (error) {
+  } catch {
     // JSON parse failed, if this is a local file, try export pattern
     if (source === 'local') {
       logger('Direct JSON parse failed, checking for export pattern...')
@@ -142,7 +142,7 @@ const processMetadataFile = ({
             force,
             source: 'remote' // Treat exported content as if it were remote JSON
           })
-        } catch (exportError) {
+        } catch {
           logger('Export pattern processing failed.', 'error')
         }
       }

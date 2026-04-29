@@ -4,8 +4,10 @@
     "outDir": "out-test",
     "rootDir": "."
   },
-  "exclude": [],
+  "exclude": [
+    "test/unit"
+  ],
   "include": [
     "test"
   ]
-} 
+}

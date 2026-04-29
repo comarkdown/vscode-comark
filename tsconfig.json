@@ -1,11 +1,15 @@
 {
   "compilerOptions": {
     "module": "commonjs",
-    "target": "es6",
+    "target": "es2022",
     "rootDir": "./src",
     "outDir": "out",
     "lib": [
-      "es6"
+      "es2022"
+    ],
+    "types": [
+      "node",
+      "vscode"
     ],
     "sourceMap": true,
     "strict": true,
@@ -15,6 +19,7 @@
     "node_modules",
     ".vscode-test",
     "scripts",
+    "vitest.config.ts",
     "**/*.spec.ts",
     "test/**/*"
   ]
