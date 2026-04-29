@@ -17,6 +17,7 @@ Best used with:
 
 Or with Nuxt modules:
 - [Nuxt Content](https://content.nuxt.com)
+- [Comark](https://comark.dev/rendering/nuxt)
 - [Nuxt MDC](https://github.com/nuxt-modules/mdc)
 
 ## Features
