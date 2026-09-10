@@ -230,7 +230,7 @@
     "mocha": "^11.7.6",
     "oxlint": "^1.70.0",
     "release-it": "^20.2.0",
-    "typescript": "6.0.3",
+    "typescript": "7.0.2",
     "vitest": "^4.1.9",
     "vscode-textmate": "^9.3.2",
     "vue-component-meta": "^3.3.5"
