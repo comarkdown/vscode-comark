@@ -231,7 +231,7 @@
     "oxlint": "^1.70.0",
     "release-it": "^20.2.0",
     "typescript": "6.0.3",
-    "vitest": "^4.1.9",
+    "vitest": "^5.0.0",
     "vscode-textmate": "^9.3.2",
     "vue-component-meta": "^3.3.5"
   },
